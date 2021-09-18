@@ -1,0 +1,16 @@
+img {
+    visibility: hidden;
+    
+}
+button {
+    margin left: 20px;
+}
+.button {
+    border-color: aqua;
+    border-bottom-width: 3;
+    border-top-left-radius: 50;
+    border-top-right-radius: 50;
+    border-bottom-left-radius: 50;
+    border-bottom-right-radius: 50;
+    border: 3px;
+}
